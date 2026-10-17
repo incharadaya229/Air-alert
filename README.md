@@ -1,8 +1,8 @@
 # AirAlert: Early Warning for Air Quality Spikes
 
-**[Team Name]_IBM Z Datathon 2026 Project**
+Qubixx_IBM Z Datathon 2026 Project**
 Theme: Real-Time AI for Critical Decisions (Detect. Decide. Respond.)
-Team: [Member 1], [Member 2], [Member 3], [Member 4]
+Team: Inchara D, Pruthvish R, Hitesh C, Kishan Gowda C G
 
 ## Problem
 
@@ -74,4 +74,4 @@ Add weather features, more stations, a live data feed and a dashboard.
 
 - Data: CPCB / OpenCity.in (Public Domain). Weather (planned): Open-Meteo.com (CC BY 4.0), "Weather data by Open-Meteo.com".
 - Open-source libraries: pandas, NumPy, scikit-learn.
-- Built during the IBM Z Datathon 2026 hacking window, with help from an AI assistant (Claude) for code and planning.
+- Built during the IBM Z Datathon 2026 hacking window, with moderate AI assistance.
